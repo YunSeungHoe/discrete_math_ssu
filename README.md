@@ -28,5 +28,3 @@
 <br>
 
 ------
-**<div align="center"> 2week </div>**
-======
