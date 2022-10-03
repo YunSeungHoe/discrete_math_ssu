@@ -1,0 +1,15 @@
+아나콘다 가상환경 목록 확인
+: conda env list
+
+base만 있으면 가상환경을 생성해야 한다. 
+: conda create -n test python=3
+
+아나콘다 활성화 
+: conda activate test
+: python --version
+
+아나콘다 비활성화
+: conda deactivate
+
+아나콘다 가상환경 삭제
+: conda env remove -n test
